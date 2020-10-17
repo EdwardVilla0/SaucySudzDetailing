@@ -1005,3 +1005,8 @@ figure figcaption {
 .footerIcons{
   padding-bottom: 25px;
 }
+
+#services-home-section{
+  text-align: center;
+  padding-top: 8rem;
+}
