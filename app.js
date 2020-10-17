@@ -8,6 +8,11 @@ app.get("/", function(req, res){
 	res.render("home");
 });
 
+app.get("/services", function(req, res){
+	res.render("services");
+});
+
+
 app.listen(process.env.PORT || 3000, function(){
 	console.log("Server has started");
 });
