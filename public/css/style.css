@@ -1006,18 +1006,16 @@ figure figcaption {
   padding-bottom: 25px;
 }
 
-#services-home-section{
-  text-align: center;
-  padding-top: 8rem;
-  padding-bottom: 1rem;
-}
-
-.services-section{
+.service-section-list{
   margin-left: 50px;
 }
-.service-list{
-  padding: 0 25%;
+
+.unordered-list{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
+
 
 @media (max-width: 450px) {
 #secondary {clear: both;}
