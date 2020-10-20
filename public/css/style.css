@@ -1018,3 +1018,7 @@ figure figcaption {
 .service-list{
   padding: 0 25%;
 }
+
+@media (max-width: 450px) {
+#secondary {clear: both;}
+}
