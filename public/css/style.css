@@ -1011,3 +1011,10 @@ figure figcaption {
   padding-top: 8rem;
   padding-bottom: 1rem;
 }
+
+.services-section{
+  margin-left: 50px;
+}
+.service-list{
+  padding: 0 25%;
+}
