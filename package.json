@@ -9,10 +9,6 @@
   },
   "author": "Eduardo Villasenor",
   "license": "ISC",
-  "engines": {
-    "node": "8.0.0",
-    "npm": "5.0.0"
-  },
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
